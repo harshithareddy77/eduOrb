@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 27bdf2f99000c9f83f896473735850bb168bb311 Mandala Harshitha <harshitha0523@gmail.com> 1735361404 +0530	commit (initial): done
+27bdf2f99000c9f83f896473735850bb168bb311 27bdf2f99000c9f83f896473735850bb168bb311 Mandala Harshitha <harshitha0523@gmail.com> 1735361572 +0530	checkout: moving from master to main
+27bdf2f99000c9f83f896473735850bb168bb311 d168ab5c1d07c9c511378c91cab6376e7e0fd705 Mandala Harshitha <harshitha0523@gmail.com> 1735361951 +0530	pull origin main --rebase (start): checkout d168ab5c1d07c9c511378c91cab6376e7e0fd705
+d168ab5c1d07c9c511378c91cab6376e7e0fd705 fc2fa2a3222b6098c1f6c8be15f2553e2689fca8 Mandala Harshitha <harshitha0523@gmail.com> 1735361952 +0530	pull origin main --rebase (pick): done
+fc2fa2a3222b6098c1f6c8be15f2553e2689fca8 fc2fa2a3222b6098c1f6c8be15f2553e2689fca8 Mandala Harshitha <harshitha0523@gmail.com> 1735361952 +0530	pull origin main --rebase (finish): returning to refs/heads/main
+fc2fa2a3222b6098c1f6c8be15f2553e2689fca8 fc2fa2a3222b6098c1f6c8be15f2553e2689fca8 Mandala Harshitha <harshitha0523@gmail.com> 1735362629 +0530	reset: moving to HEAD
